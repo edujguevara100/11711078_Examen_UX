@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "Nombre": "Leo",
+      "Oficio": "Programador",
+      "Descripción": "Conocimiento de C++, Java, JavaScript, Lpp, Scala, Prolog, Ruby"
+    },
+    {
+      "Nombre": "Fabio",
+      "Oficio": "Mecánico",
+      "Descripción": "Experto certificado en Kia, Ford y Toyota"
+    },
+    {
+      "Nombre": "Alex",
+      "Oficio": "Paletero",
+      "Descripción": "Técnico en Refrigeración y Empuje"
+    }
+  ]
+}
